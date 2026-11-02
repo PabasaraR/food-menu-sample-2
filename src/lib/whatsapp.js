@@ -1,5 +1,5 @@
 
-const WHATSAPP_NUMBER = "94776704556";
+const WHATSAPP_NUMBER = "94761217562";
 
 export function sendWhatsAppOrder(cart, tableNumber) {
   if (!cart.length || !tableNumber) return;
